@@ -18,10 +18,8 @@ concurrent constructs:
 
 ## Part 1: Twitter Feed
 
-A disgruntled Twitter staff member deleted important software from the
-servers on their last day at work. You were hired to help restore
-services, by re-developing the data structure that represents a user's
-feed. Your implementation will redefine it as a singly linked list.
+Here in this project I tried re-developing the data structure that represents a user's
+feed. My implementation redefines it as a singly linked list.
 
 I implemented few methods of a `feed`
 (i.e. the `Add`, `Remove`, and `Contains` methods). I used the
@@ -37,12 +35,6 @@ Tested the implementation of feed by using the test file called
   - `TestRemove`
 
 
-Sample run of the `SimpleSeq` test:
-
-    //Run top-level tests matching "SimpleSeq", such as "TestSimpleSeq".
-    $ go test -run "SimpleSeq"  
-    PASS
-    ok    hw4/feed    0.078s
 
 Sample run of the `SimpleSeq` and `TestAdd` tests:
 
