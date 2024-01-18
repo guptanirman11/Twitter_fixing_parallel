@@ -1,5 +1,6 @@
 
 # Project 2: A Simple Twitter Client/Server System
+[Worked on the project from September 2023 to December 2023]
 
 This project is intended to the use and implementation
 of parallel data structures using low-level primitives.
